@@ -30,4 +30,4 @@
 
 
 ## ライセンス
-"Roskadi" is under [GPL](http://www.gnu.org/licenses/gpl-3.0.html
+"Roskadi" is under [GPL](http://www.gnu.org/licenses/gpl-3.0.html)
