@@ -15,7 +15,7 @@
 ## 回路について
 
 ## インストール方法
-`git clone https://github.com/wadordi/wado.git`
+`https://github.com/wadordi/kadai2.git`
 
 ## 使用方法
 ` `   
