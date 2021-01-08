@@ -12,8 +12,6 @@
 
 ## デモ動画
 
-## 回路について
-
 ## インストール方法
 `https://github.com/wadordi/kadai2.git`
 
