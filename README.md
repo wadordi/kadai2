@@ -26,12 +26,17 @@
 
 `$ git clone https://github.com/wadordi/kadai2.git`
 
+`$ cd ~/kadai2/scripts`
+
+`$ chmod +x count.py` `$ chmod +x twice.py`
+
+`$ cd ~/catkin_ws` `$ catkin_make`
 ## 使用方法
-` `   
-` `  
-` `  
-``  
-`` 
+`$ roscore`を行いrosを起動。   
+`$ rosrun kadai1 count.py`  
+`$ rosrun kadai1 twice.py`  
+`$ rostopic echo /count_up`  
+`$ rostopic echo /twice` 
 
 ## ライセンス
 "kadi2" is under [GPL](http://www.gnu.org/licenses/gpl-3.0.html)
