@@ -3,6 +3,7 @@
 
 ## 改造内容
 今回は授業の内容そのままでの状態での提出となっています。
+count.pyで実行からの秒数のカウントを行い、twice.pyでそれを取得し2倍にした数を出力します。
 
 ## 動作環境
 以下の環境で動作確認を行っています。
@@ -27,6 +28,9 @@
 `$ rosrun kadai1 twice.py`  
 `$ rostopic echo /count_up`  
 `$ rostopic echo /twice` 
+
+## 制作者
+Ryuichi Ueda & Tomoki Terasawa
 
 ## ライセンス
 "kadi2" is under [GPL](http://www.gnu.org/licenses/gpl-3.0.html)
