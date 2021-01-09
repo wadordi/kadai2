@@ -26,8 +26,7 @@
 
 `$ git clone https://github.com/wadordi/kadai2.git`
 
-`$ cd ~/kadai2/scripts`
-
+`$ cd ~/kadai2/scripts`  
 `$ chmod +x count.py` `$ chmod +x twice.py`
 
 `$ cd ~/catkin_ws` `$ catkin_make`
