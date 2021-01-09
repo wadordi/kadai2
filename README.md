@@ -26,8 +26,12 @@ count.pyで実行からの1秒で10回のカウントを行い、twice.pyでそ�
 `$ roscore`を行いrosを起動。   
 `$ rosrun kadai1 count.py`  
 `$ rosrun kadai1 twice.py`  
-`$ rostopic echo /count_up`  
-`$ rostopic echo /twice` 
+`$ rostopic echo /count_up` カウントの様子の確認。  
+`$ rostopic echo /twice` 2倍になったカウントの確認。
+
+## デモ動画
+ロボットシステム学第10回内での動作と同様です。
+https://www.youtube.com/watch?v=PL85Pw_zQH0&t=1658s
 
 ## 制作者
 Ryuichi Ueda & Tomoki Terasawa
