@@ -10,13 +10,20 @@
 * OS:Ubuntu 20.04.1 LTS
 
 ## インストール方法
-`$ mkdir -p catkin_ws/src`　　
+`$ mkdir -p catkin_ws/src`
+
 `$ cd ~/catkin_ws/src`
+
 `$ catkin_init_workspace `
+
 `$ cd ~/catkin_ws`
+
 `$ catkin_make`
+
 `$ source ~/.bashrc`
+
 `$ cd ~/catkin_ws/src`
+
 `$ git clone https://github.com/wadordi/kadai2.git`
 
 ## 使用方法
