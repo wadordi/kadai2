@@ -11,13 +11,14 @@ count.pyで実行からの1秒で10回のカウントを行い、twice.pyでそ�
 * OS:Ubuntu 20.04.1 LTS
 
 ## インストール方法
+ワークスペースを作成し、その中にリポジトリをクローンしてください。  
 `$ mkdir -p catkin_ws/src`  
 `$ cd ~/catkin_ws/src`  
 `$ catkin_init_workspace `  
 `$ cd ~/catkin_ws`  
 `$ catkin_make`  
 `$ source ~/.bashrc`  
-`$ cd ~/catkin_ws/src`  
+`$ cd ~/catkin_ws/src`ワークスペースが既に存在する場合は、ここから行ってください。  
 `$ git clone https://github.com/wadordi/kadai2.git`  
 `$ cd ~/kadai2/scripts`  
 `$ chmod +x count.py` `$ chmod +x twice.py`  
